@@ -10,6 +10,7 @@ namespace GitPractice
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GitHub with SourceTree test");
         }
     }
 }
